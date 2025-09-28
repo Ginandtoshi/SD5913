@@ -1,0 +1,54 @@
+Year,Forest_Area_sqkm,Forest_Area_100ha,Data_Type,Source
+1973,2576000,2576000,Estimated Start Point,Based on First National Forest Inventory (1973-1976)
+1974,2588000,2588000,Interpolated,Linear interpolation between inventory periods
+1975,2600000,2600000,Interpolated,Linear interpolation between inventory periods
+1976,2612000,2612000,Interpolated,Linear interpolation between inventory periods
+1977,2634000,2634000,Interpolated,Linear interpolation between inventory periods
+1978,2656000,2656000,Interpolated,Linear interpolation between inventory periods
+1979,2678000,2678000,Interpolated,Linear interpolation between inventory periods
+1980,2685000,2685000,Estimated,Based on Second National Forest Inventory (1977-1981) average
+1981,2671300,2671300,Actual,Second National Forest Inventory (1977-1981)
+1982,2672800,2672800,Interpolated,Linear interpolation between inventory periods
+1983,2674300,2674300,Interpolated,Linear interpolation between inventory periods
+1984,2674300,2674300,Interpolated,Linear interpolation between inventory periods
+1985,2674300,2674300,Actual,Third National Forest Inventory (1984-1988) average
+1986,2674300,2674300,Interpolated,Linear interpolation between inventory periods
+1987,2674300,2674300,Interpolated,Linear interpolation between inventory periods
+1988,2674300,2674300,Interpolated,Linear interpolation between inventory periods
+1989,2651600,2651600,Interpolated,Linear interpolation between inventory periods
+1990,2628900,2628900,Interpolated,Linear interpolation between inventory periods
+1991,2628900,2628900,Actual,Fourth National Forest Inventory (1989-1993) average
+1992,2628900,2628900,Interpolated,Linear interpolation between inventory periods
+1993,2628900,2628900,Interpolated,Linear interpolation between inventory periods
+1994,2630500,2630500,Interpolated,Linear interpolation between inventory periods
+1995,2632100,2632100,Interpolated,Linear interpolation between inventory periods
+1996,2633700,2633700,Interpolated,Linear interpolation between inventory periods
+1997,2635300,2635300,Interpolated,Linear interpolation between inventory periods
+1998,2632900,2632900,Actual,Fifth National Forest Inventory (1994-1998)
+1999,2701100,2701100,Interpolated,Linear interpolation between inventory periods
+2000,2769300,2769300,Interpolated,Linear interpolation between inventory periods
+2001,2837500,2837500,Interpolated,Linear interpolation between inventory periods
+2002,2849300,2849300,Actual,Sixth National Forest Inventory (1999-2003) average
+2003,2849300,2849300,Interpolated,Linear interpolation between inventory periods
+2004,2954200,2954200,Interpolated,Linear interpolation between inventory periods
+2005,3059100,3059100,Interpolated,Linear interpolation between inventory periods
+2006,3059000,3059000,Actual,Seventh National Forest Inventory (2004-2008) average
+2007,3059000,3059000,Interpolated,Linear interpolation between inventory periods
+2008,3059000,3059000,Interpolated,Linear interpolation between inventory periods
+2009,3092500,3092500,Interpolated,Linear interpolation between inventory periods
+2010,3126000,3126000,Interpolated,Linear interpolation between inventory periods
+2011,3125900,3125900,Actual,Eighth National Forest Inventory (2009-2013) average
+2012,3125900,3125900,Interpolated,Linear interpolation between inventory periods
+2013,3125900,3125900,Interpolated,Linear interpolation between inventory periods
+2014,3181400,3181400,Interpolated,Linear interpolation between inventory periods
+2015,3236900,3236900,Interpolated,Linear interpolation between inventory periods
+2016,3236900,3236900,Actual,Ninth National Forest Inventory (2014-2018) average
+2017,3236900,3236900,Interpolated,Linear interpolation between inventory periods
+2018,3236900,3236900,Interpolated,Linear interpolation between inventory periods
+2019,3250000,3250000,Estimated,Projected growth trend
+2020,3263000,3263000,Estimated,Projected growth trend
+2021,3276000,3276000,Estimated,Projected growth trend
+2022,3289000,3289000,Estimated,Projected growth trend
+2023,3302000,3302000,Estimated,Projected growth trend
+2024,3315000,3315000,Estimated,Projected growth trend
+2025,3328000,3328000,Estimated,Projected growth trend
