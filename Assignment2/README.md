@@ -31,10 +31,10 @@ Meanwhile, I chose the types of trees based on the following data collected by T
 Among these, I chose **Oak, Birch, Yunnan Pine, and China Fir** as my main assets for their distinct individual appearances and cultural representation.
 
 ## Resources Used
-VScode & Copilot - coding
-pixellab.ai - image assets creation https://www.pixellab.ai/
-procreate - image assets drawing
-pixabay - sound effect https://pixabay.com/sound-effects/search/game%20click/
+- VScode & Copilot - coding
+- pixellab.ai - image assets creation https://www.pixellab.ai/
+- procreate - image assets drawing
+- pixabay - sound effect https://pixabay.com/sound-effects/search/game%20click/
 
 ## Project Structure
 - `assets/` — For pixel art tree images，terrain backgrounds, and interactive sound effect.
@@ -48,5 +48,6 @@ pixabay - sound effect https://pixabay.com/sound-effects/search/game%20click/
 - `numpy` — For data manipulation
 - `Pillow` — For image creation and editing
 - `pygame`- For interaction
+
 
 
