@@ -1,6 +1,6 @@
 # SD5913 Assignment 2 (2025.09.28)- Green Growth
 
-This project visualizes an estimated China's forestry plantation data with generative pixel art on a terrain. Trees are planted and grow over time based on yearly plantation numbers and growth data. The image is also sectioned roughtly into regions, like northern, southern parts of China, where different trees would grow.
+This project visualizes an estimated China's forestry plantation data with generative pixel art on a terrain. Trees are planted and grow over time based on yearly plantation numbers and growth data. Every time the user click the screen, it would show the progress of one year, starting at 1973 to 2025.
 
 ## Demo Video 
 https://youtu.be/HWaw-RbZ5IM
@@ -48,6 +48,7 @@ Among these, I chose **Oak, Birch, Yunnan Pine, and China Fir** as my main asset
 - `numpy` — For data manipulation
 - `Pillow` — For image creation and editing
 - `pygame`- For interaction
+
 
 
 
