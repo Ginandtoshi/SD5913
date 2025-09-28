@@ -2,6 +2,9 @@
 
 This project visualizes an estimated China's forestry plantation data with generative pixel art on a terrain. Trees are planted and grow over time based on yearly plantation numbers and growth data. The image is also sectioned roughtly into regions, like northern, southern parts of China, where different trees would grow.
 
+## Demo Video 
+https://youtu.be/HWaw-RbZ5IM
+
 ## Inspiration
 - I have always been interested in greenary and pixel arts. One of my prior classmates made a little grassland pixel animation with mini animal jumping in between the grass, which left me a deep inpression. Remembering that work and with my prior experience, I decided to search something relating to agriculture or forestry. 
 
@@ -35,8 +38,8 @@ pixabay - sound effect https://pixabay.com/sound-effects/search/game%20click/
 
 ## Project Structure
 - `assets/` — For pixel art tree images，terrain backgrounds, and interactive sound effect.
-- `data/` — For forestry data files (csv)
-- `src/` — Python code for data ingestion, visualization, and art generation
+- `forest_area.csv/` — For forestry data files (csv)
+- `main.py` — Python code for data ingestion, visualization, and art generation
 - `.github/copilot-instructions.md` — Workspace instructions for Copilot
 - `README.md` — Project overview and usage instructions
 
@@ -45,3 +48,5 @@ pixabay - sound effect https://pixabay.com/sound-effects/search/game%20click/
 - `numpy` — For data manipulation
 - `Pillow` — For image creation and editing
 - `pygame`- For interaction
+
+
