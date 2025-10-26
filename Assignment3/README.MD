@@ -42,5 +42,6 @@ At the end of the day, I do not have time to enhance the visuals and achieve my 
 # Required Packages & Libraries
 `Faster Whisper` - Speech-to-Text transcription
     ``pip install faster-whisper[gpu] sounddevice numpy torch``
+
 `NRCLex` - Text emotional analysis
     download NRCLex dataset: ``python -m textblob.download_corpora``
