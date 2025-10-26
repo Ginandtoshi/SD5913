@@ -40,7 +40,7 @@ At the end of the day, I do not have time to enhance the visuals and achieve my 
 
 
 # Required Packages & Libraries
-`OpenWhisper` - Speech-to-Text transcription
+`Faster Whisper` - Speech-to-Text transcription
     ``pip install faster-whisper[gpu] sounddevice numpy torch``
     
 `NRCLex` - Text emotional analysis
