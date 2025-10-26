@@ -5,7 +5,7 @@ Date: October 2025
 Real-time transcription of audio input with about 5 seconds of delay.
 
 Dependencies:
-  pip install faster-whisper[gpu] sounddevice numpy torch
+    pip install faster-whisper[gpu] sounddevice numpy
 
 Notes:
   - This script uses Faster-Whisper for transcription and sounddevice for capturing audio.
@@ -19,6 +19,7 @@ import numpy as np
 import queue
 import threading
 import time
+import pygame
 
 # --- Configuration ---
 # Using a smaller, English-specific model for better performance.
