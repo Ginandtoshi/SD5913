@@ -14,17 +14,17 @@ Inspired by the anime Mushishi season 1 episode 20, a sea of writings/A sea of i
 
 # Screenshot Snippets. 
 <p align="center">
-  <img src="./TBD/EchoJournal_20251026_223509.png" width="30%">
-  <img src="./TBD/EchoJournal_20251026_225044.png" width="30%">
-  <img src="./TBD/EchoJournal_20251026_231912.png" width="30%">
+  <img src="./EchoJournal/EchoJournal_20251026_223509.png" width="30%">
+  <img src="./EchoJournal/EchoJournal_20251026_225044.png" width="30%">
+  <img src="./EchoJournal/EchoJournal_20251026_231912.png" width="30%">
 </p>
 
 
 # Envisioned visual effects (my old diaries)
 <p align="center">
-  <img src=".\TBD\IMG_9068.jpg" width="20%">
-  <img src=".\TBD\IMG_9069.jpg" width="20%">
-  <img src=".\TBD\IMG_9070.jpg" width="20%">
+  <img src=".\EchoJournal\IMG_9068.jpg" width="20%">
+  <img src=".\EchoJournal\IMG_9069.jpg" width="20%">
+  <img src=".\EchoJournal\IMG_9070.jpg" width="20%">
 </p>
 
 
